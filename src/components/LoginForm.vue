@@ -7,9 +7,6 @@
     </div>
     <div class="bg-[#FFFFFF] w-1/3 px-12 py-32 flex items-stretch justify-between right-form flex-col">
       <div class="flex h-16 items-center">
-        <div class="h-16 w-24">
-          <img src="../assets/images/logo.png"/>
-        </div>
         <div class="">
           <img src="../assets/images/logo_text.png"/>
         </div>
